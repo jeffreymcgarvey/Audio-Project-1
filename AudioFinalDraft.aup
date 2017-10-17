@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="AudioFinalDraft_data" version="1.3.0" audacityversion="2.1.3" sel0="0.8789302611" sel1="0.8789302611" vpos="0" h="0.0000000000" zoom="23.8926806011" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="AudioFinalDraft_data" version="1.3.0" audacityversion="2.1.3" sel0="0.0000000000" sel1="20.5844897959" vpos="0" h="0.0000000000" zoom="23.8926806011" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="GENRE" value="Blues"/>
 		<tag name="ALBUM" value="Truck Air Brakes"/>
 		<tag name="TITLE" value="Truck Air Brakes"/>
 		<tag name="ARTIST" value="Truck Air Brakes"/>
 	</tags>
-	<wavetrack name="New Recording (1)" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.995262" pan="0.0">
+	<wavetrack name="New Recording (1)" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.995262" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="524288" sampleformat="131073" numsamples="1340017">
 				<waveblock start="0">
@@ -23,7 +23,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Pouring Bowl Cereal-SoundBible.com-447772767" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+	<wavetrack name="Cereal- Public Domain" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="226944">
 				<waveblock start="0">
@@ -52,7 +52,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Pouring Bowl Cereal-SoundBible.com-447772767" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+	<wavetrack name="Cereal- Public Domain" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="226944">
 				<waveblock start="0">
@@ -81,7 +81,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Truck Air Brakes-SoundBible.com-1928162780" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.122018" pan="0.0">
+	<wavetrack name="Truck- Attribution 3.0 by Mike Koenig" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.122018" pan="0.0">
 		<waveclip offset="25.07043084">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="202752">
 				<waveblock start="0">
@@ -91,7 +91,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Truck Air Brakes-SoundBible.com-1928162780" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.122018" pan="0.0">
+	<wavetrack name="Truck- Attribution 3.0 by Mike Koenig" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.122018" pan="0.0">
 		<waveclip offset="25.07043084">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="202752">
 				<waveblock start="0">
